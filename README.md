@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedantsaraf2002
 - 👀 I’m interested in Programming,Data Science,Machine Learning and many more.
-- 🌱 I’m currently learning C/C++, Python , Flutter , Web development , Dart , Data Science.
+- 🌱 I’m currently learning C/C++, Java, DSA, Python , Flutter , Web development , Dart , Data Science.
 - 💞️ I’m looking to collaborate on Open Source Projects and developments.
 - 📫 Reach me through my mail vedantsaraf2002@gmail.com
 
