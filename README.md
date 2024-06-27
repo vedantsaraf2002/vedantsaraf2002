@@ -1,7 +1,4 @@
 # 👨‍💻 Vedant Saraf
-
-![Profile Views](https://komarev.com/ghpvc/?username=vedantsaraf2002&style=flat-square&color=blue)
-
 **Computer Science Grad** | **Flutter Enthusiast** | **FullStack Developer** 
 ---
 
